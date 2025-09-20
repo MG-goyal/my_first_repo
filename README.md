@@ -1,10 +1,10 @@
-👋 Hi, I'm Mayank Goyal
+👋 Hi, I'm **Mayank Goyal**
 
 Welcome to my very first GitHub repository! 🚀  
 
 About Me
--  I’m currently learning [Machine Learning and LLm model]  
--  I’m interested in [AI and Gen AI]  
+-  I’m currently learning **[Machine Learning and LLm model]**  
+-  I’m interested in **[AI and Gen AI]**  
 -  I want to use GitHub to share my projects and track my learning journey.  
 
 
