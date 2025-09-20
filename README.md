@@ -12,4 +12,4 @@ This repo is my starting point on GitHub.
 Right now, it’s just a README — but I’ll be adding more projects soon!  
 
 ## Fun Fact
- [I am lazy]  
+ [I am lazy , **but trying to improving myself**]  
